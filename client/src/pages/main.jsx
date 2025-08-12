@@ -177,7 +177,7 @@ const Portfolio = () => {
 
                 <div class="home-right">
                     <div class="home-image">
-                        <img src="/public/IMG_20250812_133520MAGICCUTOUT.png" alt="Ezhilarasu" class="profile-img"></img>
+                        <img src="/IMG_20250812_133520MAGICCUTOUT.png" alt="Ezhilarasu" class="profile-img"></img>
                     </div>
                     
                     <div class="home-title">
