@@ -95,6 +95,14 @@ const Portfolio = () => {
       live: "https://exptr.vercel.app"
     },
     {
+  title: "Personal Portfolio Website",
+  tech: "React.js, Vite, CSS3, HTML5, Vercel",
+  description: "Designed and developed a fully responsive personal portfolio website to showcase my projects, skills, and contact information. Features a clean UI, smooth navigation, and optimized performance. Includes dedicated sections for About, Projects, Skills, and Contact, with a modern design and emoji-based favicon for a personal touch.",
+  github: "https://github.com/gezhilarasu/PortFolio",
+  live: "https://ezhilarasu24.vercel.app/"
+},
+
+    {
       title: "QuickMark Extension",
       tech: "JavaScript, Chrome Extension API, HTML/CSS",
       description: "Developed a YouTube bookmark extension that allows users to save and organize their favorite YouTube videos with timestamps. Features include quick access bookmarks, category organization, and seamless integration with YouTube's interface for enhanced user experience.",
